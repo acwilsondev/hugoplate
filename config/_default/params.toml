@@ -11,7 +11,7 @@ logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Hugoplate"
+logo_text = "AC Wilson"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -20,14 +20,18 @@ theme_default = "system" # available options [light/dark/system]
 # Main Sections
 mainSections = ["blog"]
 # contact form action
-contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
+# To set up form handling:
+# 1. Create a Formspree.io account
+# 2. Create a new form and get the form ID
+# 3. Replace "xxxxxxxxxxxx" below with your actual form ID
+contact_form_action = "https://formspree.io/f/xxxxxxxxxxxx"
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "Designed & Developed by [Zeon Studio](https://zeon.studio)"
+copyright = "© 2025 AC Wilson | Open systems, transparency, and user empowerment"
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -38,15 +42,15 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "get a quote"
+label = "Work With Me"
 link = "contact"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
 [search]
 enable = true
-primary_color = "#121212"
-include_sections = ["blog"]
+primary_color = "#f2a900"
+include_sections = ["blog", "services"]
 show_image = true
 show_description = true
 show_tags = true
@@ -57,15 +61,15 @@ show_categories = true
 [announcement]
 enable = false
 expire_days = 7
-content = "You must replace the **baseURL** in **hugo.toml** file when deploying, you can manage this announcement from the **params.toml** file."
+content = ""
 
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
-twitter = "zeon_studio"
+keywords = ["Denver Engineer", "Open Systems", "CI/CD", "Web Services", "ML/AI", "Managed Services"]
+description = "AC Wilson - Denver-based freelance engineer dedicated to building open, inclusive, and mission-critical tech solutions that empower users and foster collaboration"
+author = "AC Wilson"
+twitter = "acwilson"
 image = "images/og-image.png"
 
 
@@ -81,9 +85,9 @@ mastodon = "" # Your verification code
 # cookies
 # cookies module: https://github.com/gethugothemes/hugo-modules/tree/master/components/cookie-consent
 [cookies]
-enable = false
+enable = true
 expire_days = 60
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
+content = "This site uses essential cookies to enhance your browsing experience. Privacy and transparency are core values here."
 button = "I Accept"
 
 # diagrams

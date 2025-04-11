@@ -1,53 +1,54 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "AC Wilson"
+  content: "Creating technology and knowledge that empower individuals, foster open collaboration, and challenge restrictive systems. Rooted in curiosity and hands-on experimentation, prioritizing transparency, accessibility, and practical solutions."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Work With Me"
+    link: "/contact"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "Mission-Critical Services"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "Combining a hands-on, experimental mindset with a commitment to open systems and collaboration, I deliver robust, scalable solutions that empower clients and end-users."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "**Mission-Critical Web Services** - Reliable, scalable web solutions"
+      - "**CI/CD** - Streamlined development and deployment workflows"
+      - "**Managed Services** - Comprehensive system management and maintenance"
+      - "**ML/AI Integrations** - Responsible and ethical AI implementations"
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "Explore Services"
+      link: "/services"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "Core Values & Philosophy"
+    image: "/images/service-2.png"
+    content: "These principles guide every project and decision, ensuring consistent, ethical, and empowering outcomes for all clients and end-users."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "**Encourage Open Systems** - Favoring transparency, collaboration, and user freedom"
+      - "**Enable Others** - Designing for reusability, extensibility, and knowledge sharing"
+      - "**Challenge Bureaucracy** - Streamlining workflows and reducing gatekeeping"
+      - "**Engineer for Empowerment** - Prioritizing usability, accessibility, and inclusivity"
+      - "**Tinker First, Ask Later** - Embracing curiosity, experimentation, and hands-on learning"
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Learn About My Approach"
+      link: "/about"
+
+  - title: "What Sets AC Wilson Apart"
+    image: "/images/service-3.png"
+    content: "A unique blend of technical expertise, ethical principles, and practical innovation focused on creating sustainable, user-centric solutions."
+    bulletpoints:
+      - "**Transparent & Approachable** - Open communication that invites collaboration"
+      - "**Solution-Focused** - Emphasizing outcomes, benefits, and problem-solving"
+      - "**Forward-Thinking but Grounded** - Embracing emerging tech with real-world impact"
+      - "**Denver-Based** - Local expertise with global capabilities"
+      - "**Principled Practice** - Standing firm on openness, inclusivity, and minimal bureaucracy"
+    button:
+      enable: true
+      label: "Get In Touch"
+      link: "/contact"
 ---

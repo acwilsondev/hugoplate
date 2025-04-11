@@ -1,33 +1,98 @@
 ---
-title: "Privacy"
-# meta title
-meta_title: ""
-# meta description
-description: "This is meta description"
-# save as draft
+title: "Privacy Policy"
+meta_title: "Privacy Policy | AC Wilson"
+description: "Learn how AC Wilson collects, uses, and protects your information with transparency and respect for your privacy."
 draft: false
 ---
 
-#### Responsibility of Contributors
+## Privacy Policy
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+_Last Updated: April 11, 2025_
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+At AC Wilson, I am committed to transparency and user empowerment, which extends to how I handle your personal information. This privacy policy outlines my approach to data collection and protection.
 
-#### Gathering of Personal Information
+### Information Collection
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+#### Information You Provide
 
-#### Protection of Personal- Information
+When you contact me through the website form, email, or other channels, I collect:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+- Your name and email address
+- Any information you choose to share about your project or inquiry
+- Other contact details you voluntarily provide
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+#### Information Collected Automatically
 
-#### Privacy Policy Changes
+When you visit my website, certain non-personally identifiable information may be collected automatically, including:
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+- IP address (anonymized)
+- Browser type and version
+- Operating system
+- Referring website
+- Pages visited and time spent
+- Date and time of visits
+
+I use privacy-respecting analytics that anonymize data and respect Do Not Track settings. This information helps me improve website performance and user experience without compromising privacy.
+
+### Use of Information
+
+I use the information collected to:
+
+- Respond to your inquiries
+- Provide the services you request
+- Improve website functionality and content
+- Understand how visitors interact with my website
+- Send updates or information you've explicitly requested
+
+I do not use your information for automated decision-making or profiling.
+
+### Data Protection
+
+As a professional committed to open systems and transparency, I take several measures to protect your data:
+
+- **Minimal Collection**: I only collect information necessary for providing services
+- **Secure Storage**: All personal information is stored securely with appropriate safeguards
+- **Limited Retention**: I keep personal information only as long as needed for the purpose collected
+- **No Third-Party Sharing**: I do not sell, rent, or trade your personal information to third parties
+- **Transparent Practices**: Changes to how I handle data will be clearly communicated
+
+### Third-Party Services
+
+This website uses a limited number of third-party services:
+
+- Hosting provider (for website hosting)
+- Email service provider (for communication)
+- Analytics (privacy-focused, with data anonymization)
+
+Each third-party service used is selected with privacy considerations in mind and configured to maximize data protection.
+
+### Your Rights
+
+You have several rights regarding your personal information:
+
+- **Access**: You can request copies of your personal information I hold
+- **Correction**: You may ask me to correct inaccurate information
+- **Deletion**: You can ask me to delete your personal information
+- **Restriction**: You may request limited use of your information
+- **Data Portability**: You can request your data in a machine-readable format
+- **Objection**: You have the right to object to certain uses of your information
+
+To exercise any of these rights, please contact me at [contact@acwilson.com](mailto:contact@acwilson.com).
+
+### Cookies
+
+This website uses essential cookies to enable basic functionality. No marketing or tracking cookies are used without explicit consent. You can control cookie settings through your browser preferences.
+
+### Policy Updates
+
+I may update this privacy policy to reflect changes in practices or legal requirements. Significant changes will be announced through the website, and the "Last Updated" date will be revised accordingly.
+
+### Contact Information
+
+If you have questions or concerns about this privacy policy or data practices, please contact me at:
+
+Email: [contact@acwilson.com](mailto:contact@acwilson.com)
+
+---
+
+This privacy policy reflects my commitment to respecting your privacy while maintaining the transparency and user empowerment that are core to my business values.

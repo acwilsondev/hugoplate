@@ -1,169 +1,140 @@
-# Business Content Migration TODO
+# AC Wilson Website - Migration Progress & TODO
 
-## Content Inventory
-- [ ] Identify all existing business content that needs to be migrated
-  - [ ] Homepage content (banner, features, services, etc.)
-  - [ ] About page content (company info, team members, mission/vision)
-  - [ ] Service/product pages
-  - [ ] Blog posts/articles
-  - [ ] Case studies
-  - [ ] Testimonials
-  - [ ] Contact information
-  - [ ] Legal pages (privacy policy, terms of service)
-- [ ] Organize content by priority (what needs to be migrated first)
-- [ ] Identify and collect all media assets (images, videos, PDFs, etc.)
-- [ ] Create a content spreadsheet that maps existing content to new Hugo structure
+## Completed Tasks
 
-## Hugo Content Structure Requirements
-- [ ] Understand Hugo content organization:
-  - [ ] Content is organized in `content/english/` directory
-  - [ ] Each section has its own folder (blog, about, etc.)
-  - [ ] Section landing pages use `_index.md`
-  - [ ] Individual pages use regular `.md` files
-- [ ] Review required frontmatter for each content type:
-  - [ ] Common: title, meta_title, description, draft status
-  - [ ] Blog: date, image, categories, author, tags
-  - [ ] Custom sections: may require specific frontmatter
-- [ ] Map business content types to Hugo template sections
+1. ✅ Content Structure
+   - Created necessary content folders
+   - Set up taxonomy (categories, tags)
 
-### Specific Frontmatter Requirements
+2. ✅ Core Pages Migration 
+   - Homepage with AC Wilson's brand messaging, services, and values
+   - About page with professional information and core values
+   - Services page with comprehensive service offerings
+   - Contact page with engagement process
+   - Privacy policy with appropriate legal language
 
-#### Homepage (_index.md)
-```yaml
----
-# Banner
-banner:
-  title: "Main headline for the business"
-  content: "Brief description or tagline"
-  image: "/images/banner.png"
-  button:
-    enable: true
-    label: "Call to Action Text"
-    link: "/services" # or any appropriate link
+3. ✅ Blog Configuration
+   - Blog index page with appropriate messaging
+   - Initial technical post on CI/CD pipelines
+   - Author profile for AC Wilson
 
-# Features
-features:
-  - title: "Feature or Service #1"
-    image: "/images/feature-1.png"
-    content: "Description of the feature or service"
-    bulletpoints:
-      - "Key benefit 1"
-      - "Key benefit 2"
-      - "Key benefit 3"
-    button:
-      enable: true
-      label: "Learn More"
-      link: "/feature-1-details"
-  
-  # More features as needed
----
-```
+4. ✅ Initial Testing
+   - Content formatting review
+   - Responsive design verification
+   - Internal link validation
+   - SEO elements implementation
 
-#### Blog Posts
-```yaml
----
-title: "Blog Post Title"
-meta_title: "SEO-optimized title (if different)"
-description: "Brief description for SEO"
-date: 2025-04-11T10:00:00Z
-image: "/images/blog-featured-image.png"
-categories: ["Category1", "Category2"]
-author: "Author Name"
-tags: ["tag1", "tag2", "tag3"]
-draft: false
----
-```
+## Remaining Tasks
 
-#### About Page
-```yaml
----
-title: "About Us"
-meta_title: "About [Company Name] | Our Story"
-description: "Learn about our company history, mission, and values"
-image: "/images/about-header.jpg"
-draft: false
----
-```
+### Priority 2: Visual Assets & Content Enhancement
 
-#### Services/Products Page
-```yaml
----
-title: "Our Services"
-meta_title: "Professional Services | [Company Name]"
-description: "Explore our range of professional services"
-image: "/images/services-header.jpg"
-draft: false
----
-```
+1. [~] Visual Assets Requirements Defined
+   - [x] Created comprehensive visual-assets-request.md with specifications
+   - [x] Created placeholder-assets-specs.md for temporary assets
+   - [x] Defined brand color palette based on Color Guide
+   - [x] Detailed technical requirements for all needed assets
+   - [ ] *DEPENDENCY*: Professional design resources needed for final assets
 
-#### Contact Page
-```yaml
----
-title: "Contact Us"
-meta_title: "Contact [Company Name] | Get In Touch"
-description: "Reach out to our team for inquiries or support"
-draft: false
----
-```
+2. [ ] Immediate Image Updates (Temporary Assets)
+   - [ ] Create using Figma, Canva, or similar tools:
+     - [ ] Logo & Logo-darkmode: Simple text-based versions
+     - [ ] Favicon: Basic "AW" monogram
+     - [ ] Banner image: Gradient with brand colors
+     - [ ] Service icons: Basic shapes with brand colors
+     - [ ] Avatar: Circular monogram
+   - [ ] Test assets in both light and dark mode
+   - [ ] Ensure correct dimensions and file formats
 
-## Layout and Design Requirements
-- [ ] Review existing template layouts in `layouts/` directory
-- [ ] Identify which layouts need customization for business content
-- [ ] Create list of custom layout components needed
-- [ ] Plan for custom shortcodes if needed (for specialized content blocks)
-- [ ] Identify styling needs and Tailwind CSS customizations in `data/theme.json`
-- [ ] Plan for responsive design considerations
+3. [ ] Final Visual Assets Creation (External Design Resource)
+   - [ ] Professional logo design
+   - [ ] Custom service icons
+   - [ ] Banner and hero images
+   - [ ] Social sharing graphics
+   - [ ] Author avatars
+   
+4. [ ] Image Optimization
+   - [ ] Implement WebP conversion for all images
+   - [ ] Set up responsive image handling
+   - [ ] Optimize for performance (file size)
+   - [ ] Ensure proper alt text for accessibility
 
-## Content Migration Steps
-1. [ ] Set up basic site configuration
-   - [ ] Update `hugo.toml` with business information
-   - [ ] Configure `config/_default/params.toml` with site parameters
-   - [ ] Set up menus in `config/_default/menus.toml`
-   - [ ] Customize theme colors and fonts in `data/theme.json`
+### Priority 3: Functionality Implementation
 
-2. [ ] Prepare the content structure
-   - [ ] Create necessary content folders
-   - [ ] Set up taxonomy (categories, tags) as needed
+1. [ ] Set up form handling for contact forms
+2. [ ] Create any custom shortcodes needed for specialized content
+3. [ ] Set up build and deployment process
 
-3. [ ] Migrate Home Page
-   - [ ] Update `content/english/_index.md` with business banner and features
-   - [ ] Add business-specific sections
+### Priority 4: Additional Content
 
-4. [ ] Migrate Core Pages
-   - [ ] About page
-   - [ ] Services/Products pages
-   - [ ] Contact page
-   - [ ] Legal pages
+1. [ ] Create additional blog content based on business expertise
+2. [ ] Consider case studies or project showcases if applicable
 
-5. [ ] Migrate Blog Content
-   - [ ] Convert existing blog posts to Hugo markdown format
-   - [ ] Add proper frontmatter (title, date, categories, etc.)
-   - [ ] Optimize images and other media
+## Technical Tasks Pending
 
-6. [ ] Create Custom Components
-   - [ ] Implement any custom shortcodes needed
-   - [ ] Create custom layouts as required
-
-7. [ ] Review and Test
-   - [ ] Check content for formatting issues
-   - [ ] Test on multiple devices for responsive design
-   - [ ] Validate links and media
-   - [ ] Check SEO elements (meta titles, descriptions)
-
-## Technical Tasks
-- [ ] Install required Hugo modules or dependencies
+### Image Processing
 - [ ] Set up image processing pipeline
-- [ ] Configure multilingual support if needed
-- [ ] Set up SEO optimization
-- [ ] Configure social media integration
-- [ ] Set up form handling for contact forms
-- [ ] Review and optimize site performance
+  - [ ] Configure Hugo to generate WebP versions
+  - [ ] Implement responsive image srcsets
+  - [ ] Add image lazy loading
+
+### Form Handling
+- [~] Set up form handling for contact page
+  - [ ] Create Formspree.io account (external dependency)
+  - [x] Configure placeholder form endpoint in params.toml
+  - [x] Add form submission guidance and success message
+  - [ ] Update with actual Formspree form ID when available
+  - [ ] Test form submission flow
+  - [ ] Validate form error handling
+
+### Build & Deployment
 - [ ] Set up build and deployment process
+  - [ ] Configure continuous integration
+  - [ ] Set up automated testing
+  - [ ] Configure deployment to hosting provider
+  - [ ] Set up proper caching and headers
+  - [ ] Test and validate production build
 
 ## Post-migration Tasks
+
 - [ ] Create content update guidelines
-- [ ] Document the content structure
 - [ ] Train team members on updating the Hugo website
-- [ ] Set up a content calendar for future updates
+- [ ] Set up a content calendar for future blog content
 - [ ] Plan for ongoing maintenance
 
+## Progress Update - April 11, 2025
+
+The website is functional with core content and configuration in place:
+
+1. ✅ All core pages created with brand-appropriate messaging
+2. ✅ Site configuration completed (theme, menus, settings)
+3. ✅ Brand colors and typography implemented (Dark Teal, Golden Yellow, etc.)
+4. ✅ Visual assets requirements fully documented (both final and temporary)
+
+### Immediate Next Steps (Priority Order)
+
+1. **Create temporary visual assets** (1-2 days)
+   - Use placeholder-assets-specs.md as a guide
+   - Focus on logo, favicon, and service icons first
+   - Tools needed: Figma, Canva, or similar design tool
+   - Follow exact specifications for colors and dimensions
+
+2. **Implement form handling** (1 day)
+   - [~] Basic form setup complete with placeholder endpoint
+   - [x] Added success message and form guidance
+   - **EXTERNAL ACTION NEEDED**: Create Formspree.io account and update with actual form ID
+   - Test submission process after account creation
+
+3. **Set up build process** (1-2 days)
+   - Configure for optimal performance
+   - Implement automated deployment
+
+### Design Dependencies
+
+Two design specification documents have been created:
+
+1. `visual-assets-request.md` - Comprehensive specifications for final professional assets
+2. `placeholder-assets-specs.md` - Simplified specifications for temporary assets
+
+The temporary assets should be created first to ensure site functionality, while the comprehensive specifications should be provided to a professional designer for the final assets.
+
+The site is ready for initial review with the current content and configuration. All pages use the official brand color palette with Dark Teal (#00332e) as primary, Golden Yellow (#f2a900) as accent, and Montserrat and Open Sans fonts.
