@@ -78,6 +78,14 @@
   {{ end }}
   <!-- /Features -->
 
+  <!-- Call to Action -->
+  {{ with site.GetPage "sections/call-to-action" }}
+    {{ if .Params.enable }}
+      {{ partial "call-to-action" . }}
+    {{ end }}
+  {{ end }}
+  <!-- /Call to Action -->
+
   <!-- Testimonials -->
   {{ with site.GetPage "sections/testimonial" }}
     {{ if .Params.enable }}

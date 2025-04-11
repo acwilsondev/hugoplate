@@ -15,11 +15,13 @@
 ## Logo Specifications
 
 ### Logo Design Concept
+
 - Clean, minimal wordmark using "AC Wilson" text
 - Professional, modern feel aligned with tech/engineering focus
 - Subtle design element that suggests connectivity or open systems
 
 ### Logo - Light Version (logo.png)
+
 - Text: "AC Wilson" in Montserrat Bold (600 weight)
 - Primary Color: Charcoal (#2b2d2f)
 - Background: Transparent
@@ -28,6 +30,7 @@
 - Format: PNG with transparency
 
 ### Logo - Dark Version (logo-darkmode.png)
+
 - Text: "AC Wilson" in Montserrat Bold (600 weight)
 - Primary Color: Off-White (#f9f8f6)
 - Background: Transparent
@@ -38,12 +41,14 @@
 ## Favicon Specifications
 
 ### Favicon Design Concept
+
 - Simple "AW" monogram
 - Clean, recognizable at small sizes
 - Uses brand colors for high visibility
 
 ### Technical Specifications
-- Text: "AW" in Montserrat Bold 
+
+- Text: "AW" in Montserrat Bold
 - Primary Color: Dark Teal (#00332e)
 - Secondary Color: Golden Yellow (#f2a900) for accent or highlights
 - Size: 32×32 pixels (standard favicon size)
@@ -52,59 +57,65 @@
 ## OG Image Specifications
 
 ### OG Image Design Concept
+
 - Professional social sharing image that represents AC Wilson's brand
 - Includes logo, tagline, and simple visual element
 - Uses brand colors for consistency
 
 ### Technical Specifications
+
 - Size: 1200×630 pixels (standard for social sharing)
 - Layout:
-  * Left side: AC Wilson logo and "Open Systems Engineer" text
-  * Right side: Simple graphic representing connectivity/open systems
+  - Left side: AC Wilson logo and "Open Systems Engineer" text
+  - Right side: Simple graphic representing connectivity/open systems
 - Typography:
-  * "AC Wilson" in Montserrat Bold
-  * "Open Systems Engineer" in Montserrat Regular
-  * Optional tagline in Open Sans Light
+  - "AC Wilson" in Montserrat Bold
+  - "Open Systems Engineer" in Montserrat Regular
+  - Optional tagline in Open Sans Light
 - Colors:
-  * Background: Off-White (#f9f8f6) or light gradient
-  * Text: Charcoal (#2b2d2f)
-  * Primary Accent: Dark Teal (#00332e)
-  * Secondary Accent: Golden Yellow (#f2a900)
+  - Background: Off-White (#f9f8f6) or light gradient
+  - Text: Charcoal (#2b2d2f)
+  - Primary Accent: Dark Teal (#00332e)
+  - Secondary Accent: Golden Yellow (#f2a900)
 - Format: PNG or JPG
 
 ## Banner Image Specifications
 
 ### Banner Design Concept
+
 - Professional header image that represents technology and open systems
 - Abstract or minimal design that won't distract from text
 - Incorporates brand colors
 
 ### Technical Specifications
+
 - Size: Maintain current dimensions (approximately 800×600px)
 - Style: Abstract, geometric, or tech-focused imagery
 - Colors: Incorporate official brand palette:
-  * Dark Teal (#00332e) as primary color
-  * Golden Yellow (#f2a900) for highlights and focus points
-  * Olive Green (#897c1a) and Bronze (#8f6b18) as complementary accents
-  * Off-White (#f9f8f6) for light areas
+  - Dark Teal (#00332e) as primary color
+  - Golden Yellow (#f2a900) for highlights and focus points
+  - Olive Green (#897c1a) and Bronze (#8f6b18) as complementary accents
+  - Off-White (#f9f8f6) for light areas
 - Content: Visual elements suggesting connectivity, open systems, or technology
 - Format: PNG or JPG
 
 ## Service Icons Specifications (service-1.png, service-2.png, service-3.png)
 
 ### Design Concept
+
 - Simple, cohesive icon set for service offerings
 - Line-based or flat design style
 - Represents core services: Web Services, CI/CD, and Managed Services
 
 ### Technical Specifications
+
 - Size: Maintain current dimensions (approximately 400×300px each)
 - Style: Consistent line weight or flat design approach across all icons
 - Colors: Use a consistent color palette across all icons:
-  * Primary: Dark Teal (#00332e)
-  * Secondary: Golden Yellow (#f2a900) for highlights
-  * Supporting: Olive Green (#897c1a) and Bronze (#8f6b18) as needed
-  * Outline/Detail: Charcoal (#2b2d2f)
+  - Primary: Dark Teal (#00332e)
+  - Secondary: Golden Yellow (#f2a900) for highlights
+  - Supporting: Olive Green (#897c1a) and Bronze (#8f6b18) as needed
+  - Outline/Detail: Charcoal (#2b2d2f)
 - Background: Transparent or Off-White (#f9f8f6)
 - Icons needed:
   1. Web Services icon (server, cloud, or web-related imagery)
@@ -115,19 +126,21 @@
 ## Avatar Image Specifications (avatar.png, avatar-sm.png)
 
 ### Design Concept
+
 - Professional placeholder avatar
 - Simple monogram or abstract representation
 - Consistent with brand identity
 
 ### Technical Specifications
+
 - Size: Maintain current dimensions
-  * avatar.png: approximately 200×200px
-  * avatar-sm.png: approximately 100×100px
+  - avatar.png: approximately 200×200px
+  - avatar-sm.png: approximately 100×100px
 - Style: Circular crop with AC Wilson initials or abstract representation
-- Colors: 
-  * Background: Dark Teal (#00332e)
-  * Text/Foreground: Off-White (#f9f8f6)
-  * Optional accent: Golden Yellow (#f2a900)
+- Colors:
+  - Background: Dark Teal (#00332e)
+  - Text/Foreground: Off-White (#f9f8f6)
+  - Optional accent: Golden Yellow (#f2a900)
 - Format: PNG with transparency
 
 ---
@@ -138,4 +151,3 @@
 2. Maintain file names to ensure proper theme functionality
 3. Test in both light and dark mode to ensure visibility
 4. Consider accessibility when finalizing color contrasts
-

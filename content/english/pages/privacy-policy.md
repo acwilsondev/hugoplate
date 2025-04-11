@@ -77,7 +77,7 @@ You have several rights regarding your personal information:
 - **Data Portability**: You can request your data in a machine-readable format
 - **Objection**: You have the right to object to certain uses of your information
 
-To exercise any of these rights, please contact me at [contact@acwilson.com](mailto:contact@acwilson.com).
+To exercise any of these rights, please contact me at [aaron@acwilson.dev](mailto:aaron@acwilson.dev).
 
 ### Cookies
 
@@ -91,7 +91,7 @@ I may update this privacy policy to reflect changes in practices or legal requir
 
 If you have questions or concerns about this privacy policy or data practices, please contact me at:
 
-Email: [contact@acwilson.com](mailto:contact@acwilson.com)
+Email: [aaron@acwilson.dev](mailto:aaron@acwilson.dev)
 
 ---
 

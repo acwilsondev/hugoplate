@@ -6,7 +6,7 @@
    - Created necessary content folders
    - Set up taxonomy (categories, tags)
 
-2. ✅ Core Pages Migration 
+2. ✅ Core Pages Migration
    - Homepage with AC Wilson's brand messaging, services, and values
    - About page with professional information and core values
    - Services page with comprehensive service offerings
@@ -51,7 +51,7 @@
    - [ ] Banner and hero images
    - [ ] Social sharing graphics
    - [ ] Author avatars
-   
+
 4. [ ] Image Optimization
    - [ ] Implement WebP conversion for all images
    - [ ] Set up responsive image handling
@@ -72,12 +72,14 @@
 ## Technical Tasks Pending
 
 ### Image Processing
+
 - [ ] Set up image processing pipeline
   - [ ] Configure Hugo to generate WebP versions
   - [ ] Implement responsive image srcsets
   - [ ] Add image lazy loading
 
 ### Form Handling
+
 - [~] Set up form handling for contact page
   - [ ] Create Formspree.io account (external dependency)
   - [x] Configure placeholder form endpoint in params.toml
@@ -87,6 +89,7 @@
   - [ ] Validate form error handling
 
 ### Build & Deployment
+
 - [ ] Set up build and deployment process
   - [ ] Configure continuous integration
   - [ ] Set up automated testing
