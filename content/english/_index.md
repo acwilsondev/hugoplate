@@ -11,6 +11,20 @@ banner:
 
 # Features
 features:
+  - title: "Client Partnerships & Focus"
+    image: "/images/service-2.png"
+    content: "I partner with forward-thinking organizations and individuals who value innovation, transparency, and user empowerment in their technical solutions."
+    bulletpoints:
+      - "**Tech Startups & Scale-ups** - Building reliable infrastructure and systems that grow with your business"
+      - "**Open Source Projects** - Enhancing collaboration, documentation, and community engagement"
+      - "**Educational Institutions** - Creating accessible tools that democratize learning and knowledge sharing"
+      - "**Social Impact Organizations** - Developing technology solutions that amplify mission-driven work"
+      - "**Independent Creators & Developers** - Providing technical guidance and systems that promote autonomy"
+    button:
+      enable: true
+      label: "Get In Touch"
+      link: "/contact"
+
   - title: "Mission-Critical Services"
     image: "/images/service-1.png"
     content: "Combining a hands-on, experimental mindset with a commitment to open systems and collaboration, I deliver robust, scalable solutions that empower clients and end-users."
@@ -23,20 +37,6 @@ features:
       enable: true
       label: "Explore Services"
       link: "/services"
-
-  - title: "Core Values & Philosophy"
-    image: "/images/service-2.png"
-    content: "These principles guide every project and decision, ensuring consistent, ethical, and empowering outcomes for all clients and end-users."
-    bulletpoints:
-      - "**Encourage Open Systems** - Favoring transparency, collaboration, and user freedom"
-      - "**Enable Others** - Designing for reusability, extensibility, and knowledge sharing"
-      - "**Challenge Bureaucracy** - Streamlining workflows and reducing gatekeeping"
-      - "**Engineer for Empowerment** - Prioritizing usability, accessibility, and inclusivity"
-      - "**Tinker First, Ask Later** - Embracing curiosity, experimentation, and hands-on learning"
-    button:
-      enable: true
-      label: "Learn About My Approach"
-      link: "/about"
 
   - title: "What Sets AC Wilson Apart"
     image: "/images/service-3.png"
