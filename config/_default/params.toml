@@ -24,7 +24,7 @@ mainSections = ["blog"]
 # 1. Create a Formspree.io account
 # 2. Create a new form and get the form ID
 # 3. Replace "xxxxxxxxxxxx" below with your actual form ID
-contact_form_action = "https://formspree.io/f/xxxxxxxxxxxx"
+contact_form_action = "https://formspree.io/f/mvgkbyla"
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
