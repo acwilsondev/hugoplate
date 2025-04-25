@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "AC Wilson"
+  title: "Digital Innovation & Empowerment"
   content: "Creating technology and knowledge that empower individuals, foster open collaboration, and challenge restrictive systems. Rooted in curiosity and hands-on experimentation, prioritizing transparency, accessibility, and practical solutions."
   image: "/images/banner.png"
   button:
