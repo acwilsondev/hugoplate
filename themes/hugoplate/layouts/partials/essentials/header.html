@@ -107,6 +107,7 @@
     </ul>
 
     <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0">
+      <!-- Search button temporarily disabled
       {{ with site.Params.search }}
         {{ if .enable }}
           <button
@@ -126,6 +127,7 @@
           </button>
         {{ end }}
       {{ end }}
+      -->
 
       {{ partial "components/language-switcher" (dict "Context" . "Class" "mr-5 pl-2 py-1 dark:bg-darkmode-light rounded") }}
       {{ partial "components/theme-switcher" (dict "Class" "mr-5") }}
