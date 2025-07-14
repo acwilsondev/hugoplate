@@ -1,54 +1,53 @@
 ---
 # Banner
 banner:
-  title: "Digital Innovation & Empowerment"
-  content: "Creating technology and knowledge that empower individuals, foster open collaboration, and challenge restrictive systems. Rooted in curiosity and hands-on experimentation, prioritizing transparency, accessibility, and practical solutions."
+  title: AI & Platform Consultant for Values-Driven Startups
   image: "/images/banner.png"
+  content: "I help small, mission-aligned teams explore and integrate AI tools like GPT and RAG chatbots — without compromising privacy, control, or long-term maintainability. My approach combines ethical tech, sustainable infra, and deep curiosity, rooted in real-world problem-solving and open collaboration."
   button:
     enable: true
-    label: "Work With Me"
+    label: "Let's build something"
     link: "/contact"
 
 # Features
 features:
-  - title: "Client Partnerships & Focus"
+  - title: "Who I Help"
     image: "/images/service-2.png"
-    content: "I partner with forward-thinking organizations and individuals who value innovation, transparency, and user empowerment in their technical solutions."
+    content: "I partner with mission-driven founders and teams who prioritize thoughtful engineering, open collaboration, and real-world impact. My clients care about building systems that are transparent, maintainable, and aligned with their values—not just chasing the latest trend."
     bulletpoints:
-      - "**Tech Startups & Scale-ups** - Building reliable infrastructure and systems that grow with your business"
-      - "**Open Source Projects** - Enhancing collaboration, documentation, and community engagement"
-      - "**Educational Institutions** - Creating accessible tools that democratize learning and knowledge sharing"
-      - "**Social Impact Organizations** - Developing technology solutions that amplify mission-driven work"
-      - "**Independent Creators & Developers** - Providing technical guidance and systems that promote autonomy"
+      - Solo technical founders and early-stage teams
+      - Startups under 100 employees
+      - Focused on solving real human problems—not building adtech
+      - Prioritize privacy, modularity, and long-term sustainability
+      - Aligned with open-source, ethical, or DIY principles
     button:
       enable: true
       label: "Get In Touch"
       link: "/contact"
 
-  - title: "Mission-Critical Services"
+  - title: "What I Do"
     image: "/images/service-1.png"
-    content: "Combining a hands-on, experimental mindset with a commitment to open systems and collaboration, I deliver robust, scalable solutions that empower clients and end-users."
+    content: "I design and build robust, scalable systems with a focus on ethical AI, sustainable infrastructure, and modular architecture. My approach blends hands-on experimentation with a deep commitment to open systems, privacy, and practical solutions."
     bulletpoints:
-      - "**Mission-Critical Web Services** - Reliable, scalable web solutions"
-      - "**CI/CD** - Streamlined development and deployment workflows"
-      - "**Managed Services** - Comprehensive system management and maintenance"
-      - "**ML/AI Integrations** - Responsible and ethical AI implementations"
+      - "**AI architecture:** RAG systems, GPT integration, and privacy-first LLM workflows"
+      - "**Cloud-native infrastructure:** GCP, Terraform, CI/CD pipelines, containerized deployments"
+      - "**System design:** modular, maintainable, and values-aligned backend systems"
     button:
-      enable: true
+      enable: false
       label: "Explore Services"
       link: "/services"
 
-  - title: "What Sets AC Wilson Apart"
+  - title: "How I Work"
     image: "/images/service-3.png"
-    content: "A unique blend of technical expertise, ethical principles, and practical innovation focused on creating sustainable, user-centric solutions."
+    content: "My process combines technical depth with ethical design and practical iteration. I focus on sustainable, user-centric solutions that align with your values and long-term goals—not just quick fixes."
     bulletpoints:
-      - "**Transparent & Approachable** - Open communication that invites collaboration"
-      - "**Solution-Focused** - Emphasizing outcomes, benefits, and problem-solving"
-      - "**Forward-Thinking but Grounded** - Embracing emerging tech with real-world impact"
-      - "**Denver-Based** - Local expertise with global capabilities"
-      - "**Principled Practice** - Standing firm on openness, inclusivity, and minimal bureaucracy"
+      - "**Free 15-min call** to understand your problem and explore fit"
+      - "**Discovery sprint or prototype** to map scope and test feasibility"
+      - "**Ongoing work or clean handoff** based on your team’s needs"
     button:
       enable: true
-      label: "Get In Touch"
+      label: "Book a Call"
       link: "/contact"
+
+
 ---
